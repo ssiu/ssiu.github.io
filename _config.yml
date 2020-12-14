@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Steve
 description              : Personal Website
-url                      : https://ssiu.github.io
+url                      : ssiu.github.io
 baseurl                  : ""
 repository               : ssiu/ssiu.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
